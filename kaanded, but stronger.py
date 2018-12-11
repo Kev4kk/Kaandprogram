@@ -51,5 +51,3 @@ for j in range(0, len(span)):
       spanstr += str(sisu)
     print(spanstr)
     spanstr = ""
-for t in range()
-

@@ -18,7 +18,7 @@ Selleks lehitseb programm otsitud sõna ÕS-i, et saada käändelõpud\
 Kui ühel sõnal on kaks sama vormi, kuid erinevad tähendused\
 Programm väljastab kõikides ainsuse ja mitmuse käänetes\
 Vasakus ülemises nurgas saab vahetada UI keelt\
-Konsooli väljastab programm selle, mille ta leidis lehelt
+Konsooli väljastab programm selle, mille ta leidis lehelt\
 Osad sõnad on vigased, kuna erinevaid erandeid on mustmiljon
 
 ## Tavalised probleemid:

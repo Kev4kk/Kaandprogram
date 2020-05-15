@@ -1,4 +1,7 @@
 # Kaanamine
 Loovtöö 2018/19
 Miina Härma Gümnaasium
-juhendaja A.Aav
+Kevin Akkermann
+Python 3.7
+juhendaja Allar Aav
+

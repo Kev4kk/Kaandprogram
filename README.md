@@ -1,4 +1,4 @@
-# Kaanamine
+# Käändprogramm
 8. klassi loovtöö 2018/19 õppeaastal\
 Miina Härma Gümnaasium\
 Autor: Kevin Akkermann\

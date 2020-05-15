@@ -2,7 +2,7 @@
 8. klassi loovtöö 2018/19 õppeaastal\
 Miina Härma Gümnaasium\
 Autor: Kevin Akkermann\
-Python 3.7\
+Python 3.7.0\
 juhendaja Allar Aav
  
 ## Nõuded arvutile:

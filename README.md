@@ -4,13 +4,6 @@ Miina Härma Gümnaasium\
 Autor: Kevin Akkermann\
 Python 3.7.0\
 juhendaja Allar Aav
- 
-## Nõuded arvutile:
-Kindlasti töötab Windows 10-l\
-Vajalik on Python 3.x olemasolu\
-Python peab olema Path muutujas, kuna programm kasutab kolme pip-iga installitavat moodulit, mille programm ise installib\
-Kasutajal peab olema arvutis adminiõigused\
-Vajalik on internetiühendus
 
 ## Programmi sisu:
 Programmi eesmärk on käänata otsitud sõna\
@@ -34,6 +27,13 @@ python -m pip install lxml
 ```
 Soovitatav on esimesel korral kaks korda käivitada programmi
 
-## Contributing/panustamine
+## Panustamine
 Pull requeste pole vaja, lõpetatud programm\
 Kui leiate mõne errori (mitte valesti käänatud sõna), siis võtke minuga ühendust.
+
+## Nõuded arvutile:
+Kindlasti töötab Windows 10-l\
+Vajalik on Python 3.x olemasolu\
+Python peab olema Path muutujas, kuna programm kasutab kolme pip-iga installitavat moodulit, mille programm ise installib\
+Kasutajal peab olema arvutis adminiõigused\
+Vajalik on internetiühendus

@@ -1,4 +1,5 @@
 # Käändprogramm
+English Below 
 8. klassi loovtöö 2018/19 õppeaastal\
 Miina Härma Gümnaasium\
 Autor: Kevin Akkermann\
@@ -37,3 +38,19 @@ Vajalik on Python 3.x olemasolu\
 Python peab olema Path muutujas, kuna programm kasutab kolme pip-iga installitavat moodulit, mille programm ise installib\
 Kasutajal peab olema arvutis adminiõigused\
 Vajalik on internetiühendus
+
+# English
+8th grade project on 2018/19 year\
+Miina Härma Gymnasium\
+Made by: Kevin Akkermann\
+Using Python 3.7.0\
+Supervised by Allar Aav
+
+## The program
+The goal for the program is to conjugate Estonian nouns\
+It uses web scraping on ÕS to find the necessary data for conjugating\
+If a word has two different meanings and conjugation forms, the program will display both\
+The program outputs both singular and plural conjugations\
+You can change the language of the UI in the top left corner\
+There still may be buggy words, because there are too many exceptions in a language
+

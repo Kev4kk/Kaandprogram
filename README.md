@@ -8,7 +8,7 @@ beautifoulsoup4 4.6.3\
 lxml 4.2.5\
 requests 2.20.1\
 urllib3 1.24.1\
-juhendaja Allar Aav
+Juhendaja Allar Aav
 
 ## Programmi sisu:
 Programmi eesmärk on käänata otsitud sõna\

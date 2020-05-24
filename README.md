@@ -76,7 +76,7 @@ It is recommended to launch the program two times on first time use
 
 ## Contribution
 No need for pull requests since it's a finished project\
-If You do find some bugs that crash the program please let me know\
+If You do find some bugs that crash the program please let me know
 
 ## Specifications
 The program definitely works on Windows 10\

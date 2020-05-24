@@ -55,10 +55,10 @@ urllib 1.24.1\
 Supervised by Allar Aav
 
 ## The program
-The goal for the program is to conjugate Estonian nouns\
-It uses web scraping on ÕS to find the necessary data for conjugating\
+The goal for the program is to modify Estonian nouns\
+It uses web scraping on ÕS to find the necessary data for modifying\
 If a word has two different meanings and conjugation forms, the program will display both\
-The program outputs both singular and plural conjugations\
+The program outputs both singular and plural modifications\
 You can change the language of the UI in the top left corner\
 There still may be buggy words, because there are too many exceptions in a language
 

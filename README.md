@@ -66,7 +66,7 @@ There still may be buggy words, because there are too many exceptions in a langu
 #### Python ModuleError
 The program couldn't open a certain module\
 Make sure that Python is in the PATH environment variable and You have admin rights on the computer you're using\
-If this doesn't help, manually install all the modules through command prompt\
+If this doesn't help, manually install all the modules through command prompt
 ```
 python -m pip install requests
 python -m pip install beautifulsoup4
